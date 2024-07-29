@@ -1,3 +1,14 @@
+Languages Used:
+
+1.Spring Boot
+
+2.React
+
+3.MysqlWorkBench
+
+Working:
+
+
 1. Open Mysql workbench and create database profilemanagementsystem.
    
 2. Run The Backend Spring Boot In Vscode. Open And Run The Program 
